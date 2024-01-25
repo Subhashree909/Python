@@ -1,0 +1,3 @@
+import baisha
+
+baisha.welcome()
